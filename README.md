@@ -1,4 +1,4 @@
-<img width="960" height="1140" alt="gui" src="https://github.com/user-attachments/assets/def597a4-9df1-4f78-a63c-49338ab1a421" />
+
 #  Cyber Port Scanner
 
 Multi-threaded TCP port scanner with a professional GUI built using Python (Tkinter).
@@ -25,7 +25,9 @@ Multi-threaded TCP port scanner with a professional GUI built using Python (Tkin
 ---
 
 ## GUI Preview
-![Cyber Port Scanner GUI](gui.png)
+<p align="center">
+  <img src="gui.png" width="800"/>
+</p>
 ## Run
 ```markdown
 ## ▶️ Run
