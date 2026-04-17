@@ -28,10 +28,6 @@ Multi-threaded TCP port scanner with a professional GUI built using Python (Tkin
 <p align="center">
   <img src="gui.png" width="700"/>
 </p>
-
-<p align="center">
-  <em>Multi-threaded port scanner with real-time results and service detection</em>
-</p>
 ## Run
 ```markdown
 ## ▶️ Run
