@@ -1,0 +1,4 @@
+Port,Service,Banner
+135,epmap,No banner
+139,netbios-ssn,No banner
+445,microsoft-ds,No banner
