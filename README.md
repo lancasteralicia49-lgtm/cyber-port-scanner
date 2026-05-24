@@ -2,8 +2,7 @@
 
 #  Cyber Port Scanner
 
-Multi-threaded TCP port scanner with a professional GUI built using Python (Tkinter).
-
+Multi-threaded TCP port scanner with a Python GUI built using Tkinter. Demonstrates TCP/IP networking, port enumeration, service detection, and technical troubleshooting concepts.
 ---
 
 ## Features
@@ -29,9 +28,17 @@ Multi-threaded TCP port scanner with a professional GUI built using Python (Tkin
 <p align="center">
   <img src="gui.png" width="700"/>
 </p>
+
 ## Run
-```markdown
-## ▶️ Run
+
+Clone the repository:
 
 ```bash
-python3 scanner_gui.py
+git clone https://github.com/lancasteralicia49-lgtm/cyber-port-scanner.git
+cd cyber-port-scanner
+python scanner_gui.py
+```
+
+Requirements:
+- Python 3.x
+- Tkinter
