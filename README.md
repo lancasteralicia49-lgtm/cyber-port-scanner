@@ -7,6 +7,9 @@ A Python-based TCP port scanner with a graphical interface built using Tkinter.
 This project scans a target IP address for open TCP ports and displays the results through a simple desktop GUI.
 
 It was built to strengthen my understanding of networking, TCP/IP, port enumeration, and Python development.
+## Demo
+
+![Cyber Port Scanner GUI](gui.png)
 
 ## Features
 
